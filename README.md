@@ -57,6 +57,7 @@ The dataset was cleaned using the following steps:
 
 ## Dashboard
 
+https://ibb.co/99hLY7J3 
 The dashboard visually represents relationships between study habits, lifestyle factors, and exam performance using charts and KPI metrics.
 
 ---
