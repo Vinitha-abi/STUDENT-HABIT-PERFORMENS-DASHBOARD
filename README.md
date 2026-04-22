@@ -58,6 +58,8 @@ The dataset was cleaned using the following steps:
 ## Dashboard
 
 https://ibb.co/99hLY7J3 
+<img width="1667" height="615" alt="image" src="https://github.com/user-attachments/assets/c2c10de0-bb10-44db-8d30-b0775b9cc43d" />
+
 The dashboard visually represents relationships between study habits, lifestyle factors, and exam performance using charts and KPI metrics.
 
 ---
